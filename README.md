@@ -18,3 +18,5 @@
 10. Captured API is: https://pda.weather.gov.hk/locspc/android_data/fnd_uc.xml
 - Request relative humidity for the day after tomorrow:
 python RelativeHumidityTheDayAfterTomorrow.py
+- Or run as a test case:
+pytest case\test_myobservatory.py
