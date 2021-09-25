@@ -1,0 +1,1 @@
+store configuration for various test environments
