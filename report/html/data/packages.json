@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "case.exchange.trade.test_navigation",
+    "children" : [ {
+      "name" : "test_navigate_to_trade_page[CRO-USDC]",
+      "uid" : "31654b20bf13b0c6",
+      "parentUid" : "7f1af894c6146112263bd8b25dadcc6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632537958486,
+        "stop" : 1632537995466,
+        "duration" : 36980
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'CRO'", "'USDC'" ]
+    }, {
+      "name" : "test_navigate_to_trade_page[ATOM-CRO]",
+      "uid" : "1532d38a14faca5c",
+      "parentUid" : "7f1af894c6146112263bd8b25dadcc6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632537998744,
+        "stop" : 1632538035718,
+        "duration" : 36974
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'ATOM'", "'CRO'" ]
+    } ],
+    "uid" : "case.exchange.trade.test_navigation"
+  } ]
+}
